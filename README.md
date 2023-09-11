@@ -14,9 +14,9 @@
 
 ## 動作環境
 
-* MacOS Monterey version 12.5 
-* Android Studio Chipmunk | 2021.2.1 Patch 2
-* Pixle 2 - Android 13 (Simulator)
+* MacOS Ventura version 13.4 
+* Android Studio Flamingo | 2022.2.1 Patch 2 
+* Pixle 6 - Android 14 (Simulator)
 
 ※上記内容で動作確認をしています。
 
